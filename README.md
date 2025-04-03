@@ -28,6 +28,9 @@ python train.py --epochs 50 --batch-size 16
 ## 📌 Sample Results
 Example of brain tumor detection on an MRI scan:
 
+![Screenshot 2025-04-03 232148](https://github.com/user-attachments/assets/8e3b9009-1a20-461d-b06e-f745bd096cd2)
+
+![Screenshot 2025-04-03 232111](https://github.com/user-attachments/assets/7553766e-7ecc-404f-8558-5ad67529084b)
 
 
 ## 🚀 Future Improvements
